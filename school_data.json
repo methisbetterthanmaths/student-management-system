@@ -1,0 +1,29 @@
+{
+    "students": [
+        {
+            "name": "rahul",
+            "age": 18,
+            "email": "rahul123@example.com",
+            "roll_no": 69,
+            "grades": {
+                "phy": 100.0
+            }
+        },
+        {
+            "name": "kriti",
+            "age": 17,
+            "email": "kritikat@example.com",
+            "roll_no": 67,
+            "grades": {}
+        }
+    ],
+    "teachers": [
+        {
+            "name": "mr.abcd",
+            "age": 23,
+            "email": "abcd@example.com",
+            "emp_id": 12345,
+            "subject": "physics"
+        }
+    ]
+}
